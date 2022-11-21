@@ -16,3 +16,23 @@
 
 // External libraries
 @import "bootstrap/scss/bootstrap";
+
+.navbar {
+  padding: 12px 0;
+}
+
+.navbar-brand {
+  font-size: xx-large;
+}
+
+.nav-item {
+  a {
+    font-size: large;
+  }
+}
+
+.navbar-collapse {
+  margin-right: 40px;
+  letter-spacing: 1px;
+  flex-grow: 0;
+}
